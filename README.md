@@ -8,6 +8,7 @@ They aren't the best ones. But yeah...
 
 ## A wild assortment of languages and tools I use
 
+
 ### Most familiar
 
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png" />
@@ -22,7 +23,7 @@ They aren't the best ones. But yeah...
 
 <!-- By W3C, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=12736763 -->
 
-<img align="left" alt="CSS" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="CSS" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" /><br/><br/>
 
 <!-- By Rudloff - File:CSS3_and_HTML5_badges.svg, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=49121103 -->
 
@@ -34,7 +35,7 @@ They aren't the best ones. But yeah...
 
 <!-- By Jason Long - http://git-scm.com/downloads/logos, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=19329352 -->
 
-<img align="left" alt="AHK" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/AutoHotkey_logo.png" />
+<img align="left" alt="AHK" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/AutoHotkey_logo.png" /><br/><br/>
 
 <!-- By Chris Mallett - autohotkey.com (Direct link), GPL, https://commons.wikimedia.org/w/index.php?curid=7819328 -->
 
@@ -46,14 +47,10 @@ They aren't the best ones. But yeah...
 
 <!-- By Dustin Curtis - https://github.com/dcurtis/markdown-mark/tree/master/svg, CC0, https://commons.wikimedia.org/w/index.php?curid=31095459 -->
 
-<img align="left" alt="Godot" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Godot_logo.svg/1024px-Godot_logo.svg.png" />
+<img align="left" alt="Godot" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Godot_logo.svg/1024px-Godot_logo.svg.png" /><br/><br/>
 
 <!-- By Andrea Calabró - logo.svg (originally godot_logo.svg) in Godot Engine at GitHub, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=40939493 -->
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### Kinda familar
 
@@ -63,7 +60,7 @@ They aren't the best ones. But yeah...
 
 <!-- By Jeremy Kratz - https://github.com/isocpp/logos, Public Domain, https://commons.wikimedia.org/w/index.php?curid=62851110 -->
 
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png" />
+<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png" /><br/><br/>
 
 <!-- By Jason Groce - https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/csharp.svg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=21111649 -->
 
@@ -77,11 +74,9 @@ They aren't the best ones. But yeah...
 
 <!-- By Colin Viebrock - http://php.net/logos, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=9632398 -->
 
-<img align="left" alt="Android" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/1024px-Android_robot_head.svg.png" />
+<img align="left" alt="Android" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/1024px-Android_robot_head.svg.png" /><br/><br/>
 
 <!-- By Original: GoogleVectorization: Fishbulb - Powered by PogoBox - https://logos.fandom.com/wiki/File:Android2019_robot.svg, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=82028561 -->
-
-<br/>
 
 ### "Heard of it"
 
