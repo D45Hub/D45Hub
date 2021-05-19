@@ -79,11 +79,11 @@ APL, Assembler (8051) and Prolog. *Couldn't find neat icons for those...*
 
 <br/>
 
-And this might also be a good place to plug my website. Nothing much is happening here but I still wanna mention it. 
+And this might also be a good place to plug my website. Nothing much is happening here but I still wanna mention it. (Just click on the globe ;) )
 As the saying goes. *It ain't much, but it's honest work.*
 
 <a href="https://denisthiessen.de/">
-  <img  alt="Website" height="52px" src="https://img-premium.flaticon.com/png/512/1006/1006771.png?token=exp=1621283127~hmac=22e421d54d4bbac65f784851ff11cc08" />
+  <img alt="Website" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Globe.svg/1024px-Globe.svg.png" />
 </a>
 
-<!-- Icon made by Freepik from www.flaticon.com -->
+<!-- By Augiasstallputzer~commonswiki - Own work, based on shoreline data from GSHHS (&quot;crude&quot; level), a public-domain source., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1055628 -->
