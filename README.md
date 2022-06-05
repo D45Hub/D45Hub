@@ -1,4 +1,4 @@
-<h2>Ahoy I'm Denis - Nice to meet ya. <img src="https://raw.githubusercontent.com/D45Hub/D45Hub/master/icons/wave.gif" width="30px"></h2>
+<h2>Ahoy I'm Denis - Nice to meet ya. <img src="https://raw.githubusercontent.com/D45Hub/D45Hub/master/icons/wave.gif" width="30px" height="30px"></h2>
 
 As you might imagine I'm a huge nerd who is also currently a CS-student. *Nothing really new here I guess...*
 
