@@ -18,3 +18,4 @@ jobs:
           url: 'https://denisthiessen.de/feed.xml'
           file: 'README.md'
           max_entry: 3
+      - uses: sarisia/actions-commit@master
