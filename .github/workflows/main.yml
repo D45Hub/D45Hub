@@ -1,5 +1,20 @@
-- uses: sarisia/actions-readme-feed@v1
-  with:
-    url: 'https://denisthiessen.de/feed.xml'
-    file: 'README.md'
-    max_entry: 3
+name: 'blog feed ci'
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.feed.outputs.changed }}
+      items: ${{ steps.feed.outputs.items }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://denisthiessen.de/feed.xml'
+          file: 'README.md'
+          max_entry: 3
