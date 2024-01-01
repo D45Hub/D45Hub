@@ -18,5 +18,20 @@ jobs:
           url: 'https://denisthiessen.de/feed.xml'
           file: 'README.md'
           max_entry: 3
-          format: ${monthshort} ${02day} ~ <a href="${url}">${title}</a>
-      - uses: sarisia/actions-commit@master
+          format: <li>${monthshort} ${02day} ~ <a href="%-%-%${url}%-%-%">${title}</a><li>
+      - uses: mad9000/actions-find-and-replace-string@3
+        with:
+            source: ${{ steps.feed.outputs.result }}
+            find: '\n%-%-%'
+            replace: ''
+      - uses: mad9000/actions-find-and-replace-string@3
+        with:
+            source: ${{ steps.feed.outputs.result }}
+            find: '%-%-%\n'
+            replace: ''
+      - name: push to master
+        if: steps.feed.outputs.changed == true
+        id: commit
+        uses: sarisia/actions-commit@master
+        with:
+          message: "updated feed" 
