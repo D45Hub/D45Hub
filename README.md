@@ -20,13 +20,13 @@ I just have way too many ideas floating around my head, and this page is just a 
 <!-- feed start -->
 <li>Dec 25 ~ <a href="%-%-%
                 https://denisthiessen.de/blog/looking-back.html
-            %-%-%">Looking back, for now...</a><li>
+            %-%-%">Looking back, for now...</a></li>
 <li>Jun 24 ~ <a href="%-%-%
                 https://denisthiessen.de/blog/amsterdam.html
-            %-%-%">Amsterdam. Hoe is dat gebeurt?</a><li>
+            %-%-%">Amsterdam. Hoe is dat gebeurt?</a></li>
 <li>Apr 15 ~ <a href="%-%-%
                 https://denisthiessen.de/blog/micro-blog.html
-            %-%-%">Introducing... The micro-blog.</a><li>
+            %-%-%">Introducing... The micro-blog.</a></li>
 <!-- feed end -->
 </ul>
 <h2>Let's get in touch</h2>
