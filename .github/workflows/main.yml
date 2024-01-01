@@ -18,16 +18,16 @@ jobs:
           url: 'https://denisthiessen.de/feed.xml'
           file: 'README.md'
           max_entry: 3
-          format: <li>${monthshort} ${02day} ~ <a href="%-%-%${url}%-%-%">${title}</a><li>
+          format: <li>${monthshort} ${02day} ~ <a href="%-%-%${url}%-%-%">${title}</a></li>
       - uses: mad9000/actions-find-and-replace-string@3
         with:
             source: ${{ steps.feed.outputs.result }}
-            find: '\n%-%-%'
+            find: '\s*%-%-%'
             replace: ''
       - uses: mad9000/actions-find-and-replace-string@3
         with:
             source: ${{ steps.feed.outputs.result }}
-            find: '%-%-%\n'
+            find: '%-%-%\s*'
             replace: ''
       - uses: sarisia/actions-commit@master
         with:
