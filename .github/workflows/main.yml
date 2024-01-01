@@ -18,4 +18,5 @@ jobs:
           url: 'https://denisthiessen.de/feed.xml'
           file: 'README.md'
           max_entry: 3
+          format: ${monthshort} ${02day} ~ <a href="${url}">${title}</a>
       - uses: sarisia/actions-commit@master
