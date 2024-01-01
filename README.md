@@ -17,6 +17,15 @@ I just have way too many ideas floating around my head, and this page is just a 
 
 <h2>Latest Posts</h2>
 <!-- feed start -->
+- Dec 25 - [Looking back, for now...](
+                https://denisthiessen.de/blog/looking-back.html
+            )
+- Jun 24 - [Amsterdam. Hoe is dat gebeurt?](
+                https://denisthiessen.de/blog/amsterdam.html
+            )
+- Apr 15 - [Introducing... The micro-blog.](
+                https://denisthiessen.de/blog/micro-blog.html
+            )
 <!-- feed end -->
 
 <h2>Let's get in touch</h2>
