@@ -16,6 +16,7 @@ I just have way too many ideas floating around my head, and this page is just a 
 - Doing stuff either <a href="https://github.com/D45Hub?tab=repositories">here</a> or <a href="https://git.denisthiessen.de/explore/repos">there</a>.
 
 <h2>Latest Posts</h2>
+<ul>
 <!-- feed start -->
 <li>Dec 25 ~ <a href="%-%-%
                 https://denisthiessen.de/blog/looking-back.html
@@ -27,7 +28,7 @@ I just have way too many ideas floating around my head, and this page is just a 
                 https://denisthiessen.de/blog/micro-blog.html
             %-%-%">Introducing... The micro-blog.</a><li>
 <!-- feed end -->
-
+</ul>
 <h2>Let's get in touch</h2>
 
 <p>
