@@ -1,11 +1,5 @@
-            - name: Actions Readme Feed
-  # You may pin to the exact commit or the version.
-  # uses: sarisia/actions-readme-feed@0695507473a82b22911ac440d45dd4125edf055a
-  uses: sarisia/actions-readme-feed@v1.9.0
+- uses: sarisia/actions-readme-feed@v1
   with:
-    # RSS Feed URL
-    URL: "https://denisthiessen.de/feed.xml"
-    # Path to Markdown file to update
-    file: README.md
-    # Number of entries to show
-    max_entry: 3        
+    url: 'https://denisthiessen.de/feed.xml'
+    file: 'README.md'
+    max_entry: 3
