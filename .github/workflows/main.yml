@@ -21,9 +21,6 @@ jobs:
           file: 'README.md'
           max_entry: 5
           format: <li>${monthshort} ${02day} ~ <a href="${url}">${title}</a></li>
-      - name: push to master
-        if: steps.feed.outputs.changed == true
-        id: commit
-        uses: sarisia/actions-commit@master
+      - uses: sarisia/actions-commit@master
         with:
           message: "updated feed"  
