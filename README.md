@@ -17,15 +17,15 @@ I just have way too many ideas floating around my head, and this page is just a 
 
 <h2>Latest Posts</h2>
 <!-- feed start -->
-Dec 25 ~ <a href="
+<li>Dec 25 ~ <a href="%-%-%
                 https://denisthiessen.de/blog/looking-back.html
-            ">Looking back, for now...</a>
-Jun 24 ~ <a href="
+            %-%-%">Looking back, for now...</a><li>
+<li>Jun 24 ~ <a href="%-%-%
                 https://denisthiessen.de/blog/amsterdam.html
-            ">Amsterdam. Hoe is dat gebeurt?</a>
-Apr 15 ~ <a href="
+            %-%-%">Amsterdam. Hoe is dat gebeurt?</a><li>
+<li>Apr 15 ~ <a href="%-%-%
                 https://denisthiessen.de/blog/micro-blog.html
-            ">Introducing... The micro-blog.</a>
+            %-%-%">Introducing... The micro-blog.</a><li>
 <!-- feed end -->
 
 <h2>Let's get in touch</h2>
