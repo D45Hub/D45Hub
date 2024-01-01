@@ -15,20 +15,15 @@ jobs:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'https://denisthiessen.de/feed.xml'
+          url: |
+            https://denisthiessen.de/feed.xml
+            https://microrss.denisthiessen.de/rss.xml
           file: 'README.md'
-          max_entry: 3
-          format: <li>${monthshort} ${02day} ~ <a href="%-%-%${url}%-%-%">${title}</a></li>
-      - uses: mad9000/actions-find-and-replace-string@3
+          max_entry: 5
+          format: <li>${monthshort} ${02day} ~ <a href="${url}">${title}</a></li>
+      - name: push to master
+        if: steps.feed.outputs.changed == true
+        id: commit
+        uses: sarisia/actions-commit@master
         with:
-            source: ${{ steps.feed.outputs.result }}
-            find: '\s*%-%-%'
-            replace: ''
-      - uses: mad9000/actions-find-and-replace-string@3
-        with:
-            source: ${{ steps.feed.outputs.result }}
-            find: '%-%-%\s*'
-            replace: ''
-      - uses: sarisia/actions-commit@master
-        with:
-          message: "updated feed" 
+          message: "updated feed"  
