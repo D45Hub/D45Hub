@@ -29,9 +29,6 @@ jobs:
             source: ${{ steps.feed.outputs.result }}
             find: '%-%-%\n'
             replace: ''
-      - name: push to master
-        if: steps.feed.outputs.changed == true
-        id: commit
-        uses: sarisia/actions-commit@master
+      - uses: sarisia/actions-commit@master
         with:
           message: "updated feed" 
