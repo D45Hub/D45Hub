@@ -19,10 +19,10 @@ I just have way too many ideas floating around my head, and this page is just a 
 <ul>
 <!-- feed start -->
 <li>Dec 25 ~ <a href="https://denisthiessen.de/blog/looking-back.html">Looking back, for now...</a></li>
-<li>Jun 24 ~ <a href="https://denisthiessen.de/blog/amsterdam.html">Amsterdam. Hoe is dat gebeurt?</a></li>
-<li>Apr 15 ~ <a href="https://denisthiessen.de/blog/micro-blog.html">Introducing... The micro-blog.</a></li>
-<li>Apr 01 ~ <a href="https://denisthiessen.de/blog/codes.html">My new 'business card'</a></li>
-<li>Feb 22 ~ <a href="https://denisthiessen.de/blog/accessibility.html">A few thoughts on Software Accessibility</a></li>
+<li>Aug 26 ~ <a href="https://micro.denisthiessen.de/amsterdamse-vervoer">Amsterdamse Vervoer</a></li>
+<li>Aug 17 ~ <a href="https://micro.denisthiessen.de/superchargin-everything">Superchargin' everything...</a></li>
+<li>Aug 12 ~ <a href="https://micro.denisthiessen.de/empty">🎵</a></li>
+<li>Aug 08 ~ <a href="https://micro.denisthiessen.de/splitting-lists-up">Splitting lists up...</a></li>
 <!-- feed end -->
 </ul>
 <h2>Let's get in touch</h2>
