@@ -1,6 +1,6 @@
 <h2>Ahoy, I'm Denis - Nice to meet ya. <img src="https://raw.githubusercontent.com/D45Hub/D45Hub/master/icons/wave.gif" width="30px" height="30px"></h2>
 
-As you might imagine, I'm a huge nerd who is also currently a CS-student <a href="https://www.uva.nl/shared-content/programmas/en/masters/software-engineering/software-engineering.html">there</a>. *Nothing really new here I guess...*
+As you might imagine, I'm a huge nerd who does some random code-thingies once in a while... *Nothing really new here I guess...*
 
 I just have way too many ideas floating around my head, and this page is just a small collection of the ones I wanna share with you out there. 
 
