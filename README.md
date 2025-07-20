@@ -18,11 +18,11 @@ I just have way too many ideas floating around my head, and this page is just a 
 <h2>Latest Posts</h2>
 <ul>
 <!-- feed start -->
+<li>Jan 20 ~ <a href="https://denisthiessen.de/blog/cosplaying-as-a-sysadmin.html">Cosplaying as a Sysadmin</a></li>
+<li>Oct 21 ~ <a href="https://denisthiessen.de/blog/simplicity.html">Apps/Thingies and being happy with them... Maybe... Who knows?!?</a></li>
 <li>Mar 31 ~ <a href="https://denisthiessen.de/blog/looking-back-again.html">Looking back, again...</a></li>
 <li>Dec 25 ~ <a href="https://denisthiessen.de/blog/looking-back.html">Looking back, for now...</a></li>
-<li>Aug 26 ~ <a href="https://micro.denisthiessen.de/amsterdamse-vervoer">Amsterdamse Vervoer</a></li>
-<li>Aug 17 ~ <a href="https://micro.denisthiessen.de/superchargin-everything">Superchargin' everything...</a></li>
-<li>Aug 12 ~ <a href="https://micro.denisthiessen.de/empty">🎵</a></li>
+<li>Jun 24 ~ <a href="https://denisthiessen.de/blog/amsterdam.html">Amsterdam. Hoe is dat gebeurt?</a></li>
 <!-- feed end -->
 </ul>
 <h2>Let's get in touch</h2>
