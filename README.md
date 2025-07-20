@@ -11,7 +11,7 @@ I just have way too many ideas floating around my head, and this page is just a 
 
 <h2>What I'm up now...</h2>
 
-- Working on my MSc in Software Engineering at the University of Amsterdam.
+- Working full time as a Full Stack Developer.
 - Trying to learn as much as possible while enjoying life and seeing the world.
 - Doing stuff either <a href="https://github.com/D45Hub?tab=repositories">here</a> or <a href="https://git.denisthiessen.de/explore/repos">there</a>.
 
